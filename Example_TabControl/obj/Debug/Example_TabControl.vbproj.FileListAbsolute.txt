@@ -1,0 +1,12 @@
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\bin\Debug\Example_TabControl.exe.config
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\bin\Debug\Example_TabControl.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\bin\Debug\Example_TabControl.pdb
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\bin\Debug\Example_TabControl.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.vbprojAssemblyReference.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.Form1.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.Resources.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.pdb

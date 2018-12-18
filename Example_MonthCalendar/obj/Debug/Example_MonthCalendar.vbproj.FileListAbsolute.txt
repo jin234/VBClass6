@@ -1,0 +1,12 @@
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.exe.config
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.pdb
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.Form1.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.Resources.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.pdb
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbprojAssemblyReference.cache

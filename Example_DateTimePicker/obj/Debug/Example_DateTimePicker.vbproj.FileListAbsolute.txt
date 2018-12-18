@@ -1,0 +1,23 @@
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.exe.config
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.pdb
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbprojAssemblyReference.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.Form1.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.Resources.resources
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbproj.GenerateResource.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbproj.CoreCompileInputs.cache
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.exe
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.xml
+D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.pdb
+D:\58121003-6\VBClass6\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.exe.config
+D:\58121003-6\VBClass6\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.exe
+D:\58121003-6\VBClass6\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.pdb
+D:\58121003-6\VBClass6\Example_DateTimePicker\bin\Debug\Example_DateTimePicker.xml
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.Form1.resources
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.Resources.resources
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.exe
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.xml
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.pdb
