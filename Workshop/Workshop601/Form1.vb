@@ -6,7 +6,13 @@
     End Sub
 
     Private Sub Button2_Click(sender As Object, e As EventArgs) Handles Button2.Click
-
+        TabControl1.SelectedIndex = 2
+        LabelResult.Text = "เลขบัตรประชาชน : " & TextBoxID.Text & vbNewLine &
+                            "ชื่อ - นามสกุล : " & TextBoxName.Text & vbNewLine &
+                            "เบอร์โทรศัพท์  : " & TextBoxPhone.Text & vbNewLine &
+                            "จองตั้งแต่วันที่  : " & lblStart.Text & vbNewLine &
+                            "จองจนถึงวันที่  : " & lblEnd.Text & vbNewLine &
+                            "จำนวนวันรวม  : " & lblRange.Text & " วัน"
     End Sub
 
     Private Sub MonthCalendar1_DateChanged(sender As Object, e As DateRangeEventArgs) Handles MonthCalendar1.DateChanged
@@ -16,8 +22,14 @@
     End Sub
 
     Private Sub ButtonNext_Click(sender As Object, e As EventArgs) Handles ButtonNext.Click
-        If TextBoxName.TextLength = 0 And TextBoxEmail.TextLength = 0 And TextBoxID.TextLength = 0 Then
-            MessageBox.Show("Error")
+        If TextBoxID.TextLength = 0 Then
+            MessageBox.Show("กรุณาป้อนเลขรหัสประชาชน")
+        ElseIf TextBoxName.TextLength = 0 Then
+            MessageBox.Show("กรุณากรอกชื่อ")
+        ElseIf TextBoxPhone.TextLength = 0 Then
+            MessageBox.Show("กรุณาป้อนเลขโทรศัพท์")
+        Else
+            TabControl1.SelectedIndex = 1
         End If
     End Sub
 End Class

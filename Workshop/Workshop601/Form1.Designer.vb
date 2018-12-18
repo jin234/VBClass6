@@ -25,13 +25,16 @@ Partial Class Form1
         Me.TabControl1 = New System.Windows.Forms.TabControl()
         Me.TabPage1 = New System.Windows.Forms.TabPage()
         Me.ButtonNext = New System.Windows.Forms.Button()
-        Me.TextBoxEmail = New System.Windows.Forms.TextBox()
+        Me.TextBoxPhone = New System.Windows.Forms.TextBox()
         Me.LabelPhone = New System.Windows.Forms.Label()
         Me.TextBoxName = New System.Windows.Forms.TextBox()
         Me.LabelFname = New System.Windows.Forms.Label()
         Me.TextBoxID = New System.Windows.Forms.TextBox()
         Me.LabelIDCard = New System.Windows.Forms.Label()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
+        Me.Label5 = New System.Windows.Forms.Label()
+        Me.Label4 = New System.Windows.Forms.Label()
+        Me.Label3 = New System.Windows.Forms.Label()
         Me.lblRange = New System.Windows.Forms.Label()
         Me.lblEnd = New System.Windows.Forms.Label()
         Me.lblStart = New System.Windows.Forms.Label()
@@ -41,9 +44,6 @@ Partial Class Form1
         Me.LabelResult = New System.Windows.Forms.Label()
         Me.Label2 = New System.Windows.Forms.Label()
         Me.Label1 = New System.Windows.Forms.Label()
-        Me.Label3 = New System.Windows.Forms.Label()
-        Me.Label4 = New System.Windows.Forms.Label()
-        Me.Label5 = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -64,7 +64,7 @@ Partial Class Form1
         'TabPage1
         '
         Me.TabPage1.Controls.Add(Me.ButtonNext)
-        Me.TabPage1.Controls.Add(Me.TextBoxEmail)
+        Me.TabPage1.Controls.Add(Me.TextBoxPhone)
         Me.TabPage1.Controls.Add(Me.LabelPhone)
         Me.TabPage1.Controls.Add(Me.TextBoxName)
         Me.TabPage1.Controls.Add(Me.LabelFname)
@@ -87,12 +87,12 @@ Partial Class Form1
         Me.ButtonNext.Text = "Next"
         Me.ButtonNext.UseVisualStyleBackColor = True
         '
-        'TextBoxEmail
+        'TextBoxPhone
         '
-        Me.TextBoxEmail.Location = New System.Drawing.Point(94, 89)
-        Me.TextBoxEmail.Name = "TextBoxEmail"
-        Me.TextBoxEmail.Size = New System.Drawing.Size(233, 20)
-        Me.TextBoxEmail.TabIndex = 5
+        Me.TextBoxPhone.Location = New System.Drawing.Point(94, 89)
+        Me.TextBoxPhone.Name = "TextBoxPhone"
+        Me.TextBoxPhone.Size = New System.Drawing.Size(233, 20)
+        Me.TextBoxPhone.TabIndex = 5
         '
         'LabelPhone
         '
@@ -152,6 +152,33 @@ Partial Class Form1
         Me.TabPage2.TabIndex = 1
         Me.TabPage2.Text = "การจอง"
         Me.TabPage2.UseVisualStyleBackColor = True
+        '
+        'Label5
+        '
+        Me.Label5.Location = New System.Drawing.Point(252, 124)
+        Me.Label5.Name = "Label5"
+        Me.Label5.Size = New System.Drawing.Size(188, 19)
+        Me.Label5.TabIndex = 24
+        Me.Label5.Text = "Count Range (Days) : "
+        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'Label4
+        '
+        Me.Label4.Location = New System.Drawing.Point(249, 72)
+        Me.Label4.Name = "Label4"
+        Me.Label4.Size = New System.Drawing.Size(188, 19)
+        Me.Label4.TabIndex = 23
+        Me.Label4.Text = "End Date : "
+        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
+        'Label3
+        '
+        Me.Label3.Location = New System.Drawing.Point(249, 16)
+        Me.Label3.Name = "Label3"
+        Me.Label3.Size = New System.Drawing.Size(188, 19)
+        Me.Label3.TabIndex = 22
+        Me.Label3.Text = "Start Date : "
+        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'lblRange
         '
@@ -248,33 +275,6 @@ Partial Class Form1
         Me.Label1.TabIndex = 2
         Me.Label1.Text = "Thai-Nichi Resort"
         '
-        'Label3
-        '
-        Me.Label3.Location = New System.Drawing.Point(249, 16)
-        Me.Label3.Name = "Label3"
-        Me.Label3.Size = New System.Drawing.Size(188, 19)
-        Me.Label3.TabIndex = 22
-        Me.Label3.Text = "Start Date : "
-        Me.Label3.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'Label4
-        '
-        Me.Label4.Location = New System.Drawing.Point(249, 72)
-        Me.Label4.Name = "Label4"
-        Me.Label4.Size = New System.Drawing.Size(188, 19)
-        Me.Label4.TabIndex = 23
-        Me.Label4.Text = "End Date : "
-        Me.Label4.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
-        'Label5
-        '
-        Me.Label5.Location = New System.Drawing.Point(252, 124)
-        Me.Label5.Name = "Label5"
-        Me.Label5.Size = New System.Drawing.Size(188, 19)
-        Me.Label5.TabIndex = 24
-        Me.Label5.Text = "Count Range (Days) : "
-        Me.Label5.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
-        '
         'Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
@@ -297,7 +297,7 @@ Partial Class Form1
     Friend WithEvents TabControl1 As TabControl
     Friend WithEvents TabPage1 As TabPage
     Friend WithEvents ButtonNext As Button
-    Friend WithEvents TextBoxEmail As TextBox
+    Friend WithEvents TextBoxPhone As TextBox
     Friend WithEvents LabelPhone As Label
     Friend WithEvents TextBoxName As TextBox
     Friend WithEvents LabelFname As Label
