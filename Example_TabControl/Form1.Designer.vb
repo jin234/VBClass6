@@ -32,11 +32,11 @@ Partial Class Form1
         Me.txtId = New System.Windows.Forms.TextBox()
         Me.Label1 = New System.Windows.Forms.Label()
         Me.TabPage2 = New System.Windows.Forms.TabPage()
+        Me.lblFullname = New System.Windows.Forms.Label()
         Me.Button2 = New System.Windows.Forms.Button()
         Me.listSubject = New System.Windows.Forms.ListBox()
         Me.Label4 = New System.Windows.Forms.Label()
         Me.cmbSubject = New System.Windows.Forms.ComboBox()
-        Me.lblFullname = New System.Windows.Forms.Label()
         Me.TabControl1.SuspendLayout()
         Me.TabPage1.SuspendLayout()
         Me.TabPage2.SuspendLayout()
@@ -141,6 +141,15 @@ Partial Class Form1
         Me.TabPage2.Text = "Enroll Subject"
         Me.TabPage2.UseVisualStyleBackColor = True
         '
+        'lblFullname
+        '
+        Me.lblFullname.Location = New System.Drawing.Point(20, 15)
+        Me.lblFullname.Name = "lblFullname"
+        Me.lblFullname.Size = New System.Drawing.Size(304, 19)
+        Me.lblFullname.TabIndex = 4
+        Me.lblFullname.Text = "Student Data"
+        Me.lblFullname.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
+        '
         'Button2
         '
         Me.Button2.Location = New System.Drawing.Point(23, 186)
@@ -176,15 +185,6 @@ Partial Class Form1
         Me.cmbSubject.Name = "cmbSubject"
         Me.cmbSubject.Size = New System.Drawing.Size(255, 21)
         Me.cmbSubject.TabIndex = 0
-        '
-        'lblFullname
-        '
-        Me.lblFullname.Location = New System.Drawing.Point(20, 15)
-        Me.lblFullname.Name = "lblFullname"
-        Me.lblFullname.Size = New System.Drawing.Size(304, 19)
-        Me.lblFullname.TabIndex = 4
-        Me.lblFullname.Text = "Student Data"
-        Me.lblFullname.TextAlign = System.Drawing.ContentAlignment.MiddleLeft
         '
         'Form1
         '

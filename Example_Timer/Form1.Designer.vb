@@ -31,19 +31,20 @@ Partial Class Form1
         '
         'Timer1
         '
-        Me.Timer1.Interval = 1000
+        Me.Timer1.Interval = 16
         '
         'lblTime
         '
         Me.lblTime.BackColor = System.Drawing.Color.LemonChiffon
         Me.lblTime.BorderStyle = System.Windows.Forms.BorderStyle.Fixed3D
         Me.lblTime.Font = New System.Drawing.Font("Microsoft Sans Serif", 24.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
+        Me.lblTime.ImageAlign = System.Drawing.ContentAlignment.MiddleRight
         Me.lblTime.Location = New System.Drawing.Point(27, 26)
         Me.lblTime.Name = "lblTime"
-        Me.lblTime.Size = New System.Drawing.Size(202, 50)
+        Me.lblTime.Size = New System.Drawing.Size(258, 50)
         Me.lblTime.TabIndex = 0
         Me.lblTime.Text = "00 : 00 : 00"
-        Me.lblTime.TextAlign = System.Drawing.ContentAlignment.MiddleCenter
+        Me.lblTime.TextAlign = System.Drawing.ContentAlignment.MiddleRight
         '
         'btnStart
         '
@@ -58,7 +59,7 @@ Partial Class Form1
         'Button1
         '
         Me.Button1.Font = New System.Drawing.Font("Microsoft Sans Serif", 12.0!, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, CType(0, Byte))
-        Me.Button1.Location = New System.Drawing.Point(131, 88)
+        Me.Button1.Location = New System.Drawing.Point(187, 88)
         Me.Button1.Name = "Button1"
         Me.Button1.Size = New System.Drawing.Size(98, 32)
         Me.Button1.TabIndex = 2
@@ -69,7 +70,7 @@ Partial Class Form1
         '
         Me.AutoScaleDimensions = New System.Drawing.SizeF(6.0!, 13.0!)
         Me.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font
-        Me.ClientSize = New System.Drawing.Size(255, 140)
+        Me.ClientSize = New System.Drawing.Size(311, 140)
         Me.Controls.Add(Me.Button1)
         Me.Controls.Add(Me.btnStart)
         Me.Controls.Add(Me.lblTime)

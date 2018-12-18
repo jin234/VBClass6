@@ -10,3 +10,15 @@ D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\E
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.xml
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.pdb
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbprojAssemblyReference.cache
+D:\58121003-6\VBClass6\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.exe.config
+D:\58121003-6\VBClass6\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.exe
+D:\58121003-6\VBClass6\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.pdb
+D:\58121003-6\VBClass6\Example_MonthCalendar\bin\Debug\Example_MonthCalendar.xml
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.Form1.resources
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.Resources.resources
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.exe
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.xml
+D:\58121003-6\VBClass6\Example_MonthCalendar\obj\Debug\Example_MonthCalendar.pdb

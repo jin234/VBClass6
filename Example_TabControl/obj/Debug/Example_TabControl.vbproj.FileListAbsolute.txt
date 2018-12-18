@@ -10,3 +10,15 @@ D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Exam
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.exe
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.xml
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_TabControl\obj\Debug\Example_TabControl.pdb
+D:\58121003-6\VBClass6\Example_TabControl\bin\Debug\Example_TabControl.exe.config
+D:\58121003-6\VBClass6\Example_TabControl\bin\Debug\Example_TabControl.exe
+D:\58121003-6\VBClass6\Example_TabControl\bin\Debug\Example_TabControl.pdb
+D:\58121003-6\VBClass6\Example_TabControl\bin\Debug\Example_TabControl.xml
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.Form1.resources
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.Resources.resources
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.exe
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.xml
+D:\58121003-6\VBClass6\Example_TabControl\obj\Debug\Example_TabControl.pdb

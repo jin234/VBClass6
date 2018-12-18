@@ -21,3 +21,4 @@ D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.v
 D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.exe
 D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.xml
 D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.pdb
+D:\58121003-6\VBClass6\Example_DateTimePicker\obj\Debug\Example_DateTimePicker.vbprojResolveAssemblyReference.cache

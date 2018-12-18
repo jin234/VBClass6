@@ -9,3 +9,15 @@ D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_Timer\obj\Debug\Example_T
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_Timer\obj\Debug\Example_Timer.exe
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_Timer\obj\Debug\Example_Timer.xml
 D:\Coding\VB.NET\week 6\Example_DateTimePicker\Example_Timer\obj\Debug\Example_Timer.pdb
+D:\58121003-6\VBClass6\Example_Timer\bin\Debug\Example_Timer.exe.config
+D:\58121003-6\VBClass6\Example_Timer\bin\Debug\Example_Timer.exe
+D:\58121003-6\VBClass6\Example_Timer\bin\Debug\Example_Timer.pdb
+D:\58121003-6\VBClass6\Example_Timer\bin\Debug\Example_Timer.xml
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.vbprojResolveAssemblyReference.cache
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.Form1.resources
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.Resources.resources
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.vbproj.GenerateResource.cache
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.vbproj.CoreCompileInputs.cache
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.exe
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.xml
+D:\58121003-6\VBClass6\Example_Timer\obj\Debug\Example_Timer.pdb
