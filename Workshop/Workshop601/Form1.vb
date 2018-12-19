@@ -30,6 +30,8 @@
             MessageBox.Show("กรุณาป้อนเลขโทรศัพท์")
         Else
             TabControl1.SelectedIndex = 1
+            MonthCalendar1.Enabled = True
+            Button2.Enabled = False
         End If
     End Sub
 End Class

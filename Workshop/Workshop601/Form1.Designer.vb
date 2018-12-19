@@ -218,6 +218,7 @@ Partial Class Form1
         '
         'MonthCalendar1
         '
+        Me.MonthCalendar1.Enabled = False
         Me.MonthCalendar1.Location = New System.Drawing.Point(13, 16)
         Me.MonthCalendar1.MaxSelectionCount = 10
         Me.MonthCalendar1.Name = "MonthCalendar1"
@@ -225,6 +226,7 @@ Partial Class Form1
         '
         'Button2
         '
+        Me.Button2.Enabled = False
         Me.Button2.Location = New System.Drawing.Point(378, 199)
         Me.Button2.Name = "Button2"
         Me.Button2.Size = New System.Drawing.Size(105, 33)
